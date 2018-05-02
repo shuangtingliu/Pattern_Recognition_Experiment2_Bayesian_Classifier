@@ -1,1 +1,0 @@
-# Pattern_Recognition_Experiment2_Bayesian_Classifier
